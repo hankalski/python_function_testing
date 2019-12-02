@@ -1,2 +1,2 @@
 # python_function_testing
-Testing of simple function.
+Testing of a simple function.
